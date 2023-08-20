@@ -21,7 +21,7 @@ Main areas of focus
 - Stock control or stock level 
 - Staff
 
-
+A. 
 
 
 
