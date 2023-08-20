@@ -21,7 +21,22 @@ Main areas of focus
 - Stock control or stock level 
 - Staff
 
-A. 
+A. Customers Orders
+- To design the database and table in it, we will spec out all the fields of the data we want to collect. Then normalize the data adding more related tables and defining the table relationship. He has specified the different data he wants to collect from each order.
+
+Orders Data Required
+•	Item name
+•	Item price
+•	Quantity
+•	Customer name
+•	Delivery address
+•	Product Category
+•	Pizza 
+•	Sides 
+•	Desserts 
+•	Beverages
+
+
 
 
 
