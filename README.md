@@ -8,6 +8,7 @@ LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 
 # Altor-Pizza- SQL to GoogleLookerStudio End to End Project
+
 Business requirements analysis, schema designing, database troubleshooting, sql query, data cleaning, data analysis, data modeling, data visualization using looker studio. 
 
 Client Altor is opening a pizzeria in his tow. It is takeout delivery a bit like dominos.
