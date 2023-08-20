@@ -16,7 +16,7 @@ The project is to design and build a  relational database for his business that 
 
 In turn I will only do the front end then he will hire somebody to  build the front-end ordering system. There are three main areas that the brief requires us to concentrate on.
 
-Main areas of focus
+### Main areas of focus
 - Customer Orders
 - Stock control or stock level 
 - Staff
