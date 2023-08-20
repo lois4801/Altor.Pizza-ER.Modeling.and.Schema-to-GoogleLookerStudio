@@ -1,6 +1,13 @@
 ![RawDesertedDuckling-size_restricted](https://github.com/lois4801/Altor-Pizza--SQL_to_GoogleLookerStudio/assets/96842662/5147466c-84fc-410d-98a3-fcc4afc4e6d0)
 
-# Altor-Pizza-End-to-End-Project
+- For more projects to share like this. Please support me by following me in my social media accounts. 
+
+Github>>>>>>>https://github.com/lois4801  
+LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
+
+
+
+# Altor-Pizza- SQL to GoogleLookerStudio End to End Project
 Business requirements analysis, schema designing, database troubleshooting, sql query, data cleaning, data analysis, data modeling, data visualization using looker studio. 
 
 Client Altor is opening a pizzeria in his tow. It is takeout delivery a bit like dominos.
