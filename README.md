@@ -58,6 +58,17 @@ C. Staff data requirements
 8.	Show me staff percentage analysis,
 9.	Show me staff position summary and its staff rotation shift analysis.
 
+**
+Project Planning
+**
+
+
+
+
+
+
+
+
   
 
 
