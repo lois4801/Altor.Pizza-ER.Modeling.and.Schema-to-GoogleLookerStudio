@@ -42,12 +42,12 @@ B.	Stock Control Requirement
 -To do this were going to need more information about the following what ingredients go into each pizza ,their quantity based on the size of the pizza ,the existing stock levels
 - Different lead times of suppliers to calculate exactly when to order each item or ingredients. The owner said lead time for delivery by suppliers is the same for all ingredients.
 
-  C. Staff data requirements
+C. Staff data requirements
   - Wants to know which staff member are working when.
   - Based on the staff salary information, how much each pizza costs( ingredients+chefs+delivery)
 
   
-Owners Questions that needed to be answered.
+### Owners Questions that needed to be answered.
 1.	What are the total orders per category?
 2.	Delivery percentage as per my rider’s performance?
 3.	Total order, and total quantity delivered for the whole shift/week/month. 
