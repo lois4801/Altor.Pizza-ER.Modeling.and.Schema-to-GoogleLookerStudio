@@ -1,3 +1,5 @@
+![RawDesertedDuckling-size_restricted](https://github.com/lois4801/Altor-Pizza--SQL_to_GoogleLookerStudio/assets/96842662/5147466c-84fc-410d-98a3-fcc4afc4e6d0)
+
 # Altor-Pizza-End-to-End-Project
 Business requirements analysis, schema designing, database troubleshooting, sql query, data cleaning, data analysis, data modeling, data visualization using looker studio. 
 
@@ -10,6 +12,10 @@ Main areas of focus
 - Customer Orders
 - Stock control or stock level 
 - Staff
+
+
+
+
 
 ### To Request for an access to my PowerBI Dashbaord. Kindly please follow me first in github and linkedIn and click this link to motivate me to share more projects like this.Thanks for the support( https://github.com/lois4801 , https://www.linkedin.com/in/artemis-jay/).
 
