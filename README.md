@@ -24,7 +24,7 @@ Client Altor is opening a pizzeria.It is takeout delivery a bit like dominos. Th
 7.	Give me the ingredient analysis per pizza for me know its prices, total quantity, and percentage remaining.
 8.	Show me staff percentage analysis,
 9.	Show me staff position summary and its staff rotation shift analysis.
-
+-----------------------------------------------------------------------------
 ### Project Planning
 
 ![Untitled](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/600e4b64-283f-4577-9c53-e0f7f2243fae)
@@ -55,7 +55,7 @@ B.	Stock Control Requirement
 C. Staff data requirements
   - Wants to know which staff member are working when.
   - Based on the staff salary information, how much each pizza costs( ingredients+chefs+delivery)
-
+-------------------------------------------------------------------------------------
 ### Designing Phase
 
 -	There are various ways to do this. Due to lack of resources, budget and  connection issues, I will be doing it with this method to save money. 
@@ -66,7 +66,8 @@ C. Staff data requirements
 
 ![Process Map](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/57572634-ca56-4393-8967-bd3f7ca8be20)
 
-
+## 
+![er model](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/65efea4f-ba59-4558-8c85-d4fc9385908b)
 
 
 
@@ -75,8 +76,8 @@ C. Staff data requirements
 
 
 
-
-### To Request for an access to my PowerBI Dashbaord. Kindly please follow me first in github and linkedIn and click this link to motivate me to share more projects like this.Thanks for the support( https://github.com/lois4801 , https://www.linkedin.com/in/artemis-jay/).
+------------------------------------------------------------------------------------
+### To request for an access to my PowerBI Dashbaord. Kindly please follow me first in github and linkedIn and click this link to motivate me to share more projects like this.Thanks for the support( https://github.com/lois4801 , https://www.linkedin.com/in/artemis-jay/).
 
 ![g1](https://github.com/lois4801/Altor-Pizza--SQL_to_GoogleLookerStudio/assets/96842662/ad9bae61-cf43-4dac-bba1-8133988f0e23)
 
