@@ -2,7 +2,7 @@
 
 - For more projects to share like this. Please support me by following me in my social media accounts. 
 
-Github>>>>>>>https://github.com/lois4801  
+Github>>>>>>  https://github.com/lois4801  
 LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 
