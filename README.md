@@ -11,16 +11,26 @@ LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 Business requirements analysis, schema designing, database troubleshooting, sql query, data cleaning, data analysis, data modeling, data visualization using looker studio. 
 
-Client Altor is opening a pizzeria in his tow. It is takeout delivery a bit like dominos.
-The project is to design and build a  relational database for his business that allow him to capture and store all the important information and data that the business generates. These will in turn help Altor to monitor business performance in dashboard that well build later on.
+Client Altor is opening a pizzeria.It is takeout delivery a bit like dominos. The project is to design and build a relational database for his business that allow him to capture and store all the important information and data that the business generates. These will in turn help Altor to monitor business performance through the dashboard that will also be built later. He has a summary of data  that he wanted in the database.  This includes the recipes.
 
-In turn I will only do the front end then he will hire somebody to  build the front-end ordering system. There are three main areas that the brief requires us to concentrate on.
+ 
+### Owners Questions that needed to be answered.
+1.	What are the total orders per category?
+2.	Delivery percentage as per my rider’s performance?
+3.	Total order, and total quantity delivered for the whole shift/week/month. 
+4.	Identify my best seller items and its corresponding total sales.
+5.	Give a cost analysis of my pizza per category.
+6.	What is my sales percentage per category.
+7.	Give me the ingredient analysis per pizza for me know its prices, total quantity, and percentage remaining.
+8.	Show me staff percentage analysis,
+9.	Show me staff position summary and its staff rotation shift analysis.
+
+### Project Planning
+
+![Untitled](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/600e4b64-283f-4577-9c53-e0f7f2243fae)
+
 
 ### Main areas of focus
-- Customer Orders
-- Stock control or stock level 
-- Staff
-
 
 A. Customers Orders
 - To design the database and table in it, we will spec out all the fields of the data we want to collect. Then normalize the data adding more related tables and defining the table relationship. He has specified the different data he wants to collect from each order.
@@ -46,23 +56,15 @@ C. Staff data requirements
   - Wants to know which staff member are working when.
   - Based on the staff salary information, how much each pizza costs( ingredients+chefs+delivery)
 
-  
-### Owners Questions that needed to be answered.
-1.	What are the total orders per category?
-2.	Delivery percentage as per my rider’s performance?
-3.	Total order, and total quantity delivered for the whole shift/week/month. 
-4.	Identify my best seller items and its corresponding total sales.
-5.	Give a cost analysis of my pizza per category.
-6.	What is my sales percentage per category.
-7.	Give me the ingredient analysis per pizza for me know its prices, total quantity, and percentage remaining.
-8.	Show me staff percentage analysis,
-9.	Show me staff position summary and its staff rotation shift analysis.
+### Designing Phase
 
-**
-Project Planning
-**
+-	There are various ways to do this. Due to lack of resources, budget and  connection issues, I will be doing it with this method to save money. 
+-	Everything that can be done in MySQL can also be done in Access but I prefer doing it in MySQL because it is more friendly user.
+-	There are various kinds of visualization that can also be use. But the friendliest I have used so far is Google Looker Studio. Due to connection issues as well, I have manually imported those visualization datasets in my google drive after changing the type into Google Sheets.
 
+## Process Map 
 
+![Process Map](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/57572634-ca56-4393-8967-bd3f7ca8be20)
 
 
 
