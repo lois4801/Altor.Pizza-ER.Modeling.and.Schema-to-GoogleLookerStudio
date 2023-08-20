@@ -21,6 +21,7 @@ Main areas of focus
 - Stock control or stock level 
 - Staff
 
+
 A. Customers Orders
 - To design the database and table in it, we will spec out all the fields of the data we want to collect. Then normalize the data adding more related tables and defining the table relationship. He has specified the different data he wants to collect from each order.
 
@@ -36,6 +37,28 @@ Orders Data Required
 •	Desserts 
 •	Beverages
 
+B.	Stock Control Requirement 
+- Wants to be able to know when its times to order new stock. 
+-To do this were going to need more information about the following what ingredients go into each pizza ,their quantity based on the size of the pizza ,the existing stock levels
+- Different lead times of suppliers to calculate exactly when to order each item or ingredients. The owner said lead time for delivery by suppliers is the same for all ingredients.
+
+  C. Staff data requirements
+  - Wants to know which staff member are working when.
+  - Based on the staff salary information, how much each pizza costs( ingredients+chefs+delivery)
+
+  
+Owners Questions that needed to be answered.
+1.	What are the total orders per category?
+2.	Delivery percentage as per my rider’s performance?
+3.	Total order, and total quantity delivered for the whole shift/week/month. 
+4.	Identify my best seller items and its corresponding total sales.
+5.	Give a cost analysis of my pizza per category.
+6.	What is my sales percentage per category.
+7.	Give me the ingredient analysis per pizza for me know its prices, total quantity, and percentage remaining.
+8.	Show me staff percentage analysis,
+9.	Show me staff position summary and its staff rotation shift analysis.
+
+  
 
 
 
