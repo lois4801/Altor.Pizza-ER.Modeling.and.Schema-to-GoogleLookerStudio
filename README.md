@@ -101,9 +101,7 @@ during the importation make sure that all fields are aligned to the type of data
 
 ![s8](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/c232e5ee-0787-4645-a524-7e758e0bad96)
 
-
-
-
+![s9](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/d3046db7-c887-4ccd-b0b3-9d05de975f9f)
 
 
 
@@ -115,8 +113,6 @@ during the importation make sure that all fields are aligned to the type of data
 ![g2](https://github.com/lois4801/Altor-Pizza--SQL_to_GoogleLookerStudio/assets/96842662/d852dd93-038b-4a37-8d44-eea970a4183a)
 
 ![g3](https://github.com/lois4801/Altor-Pizza--SQL_to_GoogleLookerStudio/assets/96842662/e7a77cfc-7540-4c92-bbfa-ea918dd94fe5)
-
-
 
 
 [https://lookerstudio.google.com/s/iseMTsEaKuY ](https://lookerstudio.google.com/reporting/e03c8853-9854-46aa-a1cf-ab68dba5944c)
