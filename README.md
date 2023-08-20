@@ -66,13 +66,44 @@ C. Staff data requirements
 
 ![Process Map](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/57572634-ca56-4393-8967-bd3f7ca8be20)
 
-## 
+## ER Modeling and Relational Schemas Designing Phase through MS ACCESS. 
 ![er model](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/65efea4f-ba59-4558-8c85-d4fc9385908b)
 
+- To populate the data I decided to import those excel files into MySQL for Querying and creating my dataset for DataVisualization.
+
+   ![Untitled2](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/f2077ecd-c3ea-4847-ae64-9e0546ea048b)
 
 
+## Troubleshooting During Database Designing and DataVisualization
 
+![s1](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/7acc3d6f-ff71-4443-8580-cfe942d1a130)
+
+![s2](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/d6f21f22-811b-4168-b7f1-8a3b96daa249)
+
+![s3](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/40ce42b0-da45-4486-a334-3e344cdb8120)
+
+## MySQL Server Issues and Alternatives
+- Connecting mysql server to the google looker studio is pricey. I have to connect to google cloud for me to access my database in mysql server.
   
+![s4](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/1fc98ca8-d250-415e-8c4b-1ffc602ce9e7)
+
+- So right now, Ill just upload my database and create a visualization using google looker studio
+I have loaded in sql workbench all my sql queries then download a copy of csv.
+
+![s5](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/58eb3fc1-39d3-4f8c-af84-be6a39216588)
+
+- I will also use dashboards in csv file to create visualizations on the google looker studio
+during the importation make sure that all fields are aligned to the type of data does it have on each cell. I made a mistake during my first try and won’t show any number during table or chart creation.
+
+![s6](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/0065c1b4-3ea5-4ef0-ac92-20f851c14a5a)
+
+![s7](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/caf8c4a0-6e33-4c4a-b742-00086cceacac)
+
+![s8](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/c232e5ee-0787-4645-a524-7e758e0bad96)
+
+
+
+
 
 
 
