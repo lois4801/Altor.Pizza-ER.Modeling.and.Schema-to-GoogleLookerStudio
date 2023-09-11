@@ -93,7 +93,7 @@ I have loaded in sql workbench all my sql queries then download a copy of csv.
 ![s5](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/58eb3fc1-39d3-4f8c-af84-be6a39216588)
 
 - I will also use dashboards in csv file to create visualizations on the google looker studio
-during the importation make sure that all fields are aligned to the type of data does it have on each cell. I made a mistake during my first try and won’t show any number during table or chart creation.
+during the importation and make sure that all fields are aligned to the type of data that I want present on each cell.  I made a mistake during my first try and won’t show any number during table or chart creation.
 
 ![s6](https://github.com/lois4801/Altor.Pizza-ER.Modeling.and.Schema-to-GoogleLookerStudio/assets/96842662/0065c1b4-3ea5-4ef0-ac92-20f851c14a5a)
 
