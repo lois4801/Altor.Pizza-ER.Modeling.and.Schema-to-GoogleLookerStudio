@@ -11,7 +11,7 @@ LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 Business requirements analysis, schema designing, database troubleshooting, sql query, data cleaning, data analysis, data modeling, data visualization using looker studio. 
 
-Client Altor is opening a pizzeria.It is takeout delivery a bit like dominos. The project is to design and build a relational database for his business that allow him to capture and store all the important information and data that the business generates. These will in turn help Altor to monitor business performance through the dashboard that will also be built later. He has a summary of data  that he wanted in the database.  This includes the recipes.
+Client Altor is opening a pizzeria.It is a takeout delivery like dominos. The project is to design and build a relational database for his business that allows him to capture and store all the important information and data that the business generates. These will in turn help Altor to monitor business performance through the dashboard that will also be built later. He has a summary of data  that he wanted in the database.  This includes the recipes.
 
  
 ### Owners Questions that needed to be answered.
