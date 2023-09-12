@@ -21,7 +21,7 @@ Client Altor is opening a pizzeria.It is a takeout delivery like dominos. The pr
 4.	Identify my best seller items and its corresponding total sales.
 5.	Give a cost analysis of my pizza per category.
 6.	What is my sales percentage per category.
-7.	Give me the ingredient analysis per pizza for me know its prices, total quantity, and percentage remaining.
+7.	Give me the ingredient analysis per pizza for me to know its prices, total quantity, and percentage remaining.
 8.	Show me staff percentage analysis,
 9.	Show me staff position summary and its staff rotation shift analysis.
 -----------------------------------------------------------------------------
