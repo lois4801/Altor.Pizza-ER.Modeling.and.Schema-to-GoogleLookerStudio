@@ -6,12 +6,56 @@ Github>>>>>>  https://github.com/lois4801
 LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 
-
 # Altor-Pizza-End to End Project
+For Altor Pizza, I completed an end-to-end data project for a new takeout and delivery business. I translated nine owner questions into a relational database covering orders, customers, menu items, recipes, inventory, staff and shifts. I designed the ER model in Microsoft Access, implemented the schema in MySQL, established table relationships and wrote SQL datasets for order activity, ingredient costs, stock consumption and labor costs.
 
-Business requirements analysis, schema designing, database troubleshooting, sql query, data cleaning, data analysis, data modeling, data visualization using looker studio. 
+When a direct MySQL-to-Looker Studio connection required paid cloud infrastructure, I designed a practical alternative using SQL exports, CSV files and Google Sheets. My analysis of the sample data identified $5,967 in sales, 626 items sold and pizza as 64% of revenue. The project demonstrates how I connect business requirements, database design, SQL analysis and visualization to produce actionable business intelligence.
 
-Client Altor is opening a pizzeria.It is a takeout delivery like dominos. The project is to design and build a relational database for his business that allows him to capture and store all the important information and data that the business generates. These will in turn help Altor to monitor business performance through the dashboard that will also be built later. He has a summary of data  that he wanted in the database.  This includes the recipes.
+# Highlights:
+**End-to-end scope**: requirements analysis, ER modeling, relational schema design, SQL, troubleshooting and Looker Studio reporting.
+**Tools: ** Microsoft Access, MySQL Workbench, SQL, CSV, Google Sheets and Google Looker Studio.
+**Database coverage:** orders, customers, addresses, items, recipes, ingredients, inventory, staff, shifts and staff rotation.
+**SQL techniques:** joins, grouped aggregations, subqueries, calculated fields, TIMEDIFF, cost calculations and inventory consumption logic.
+**Deliverables: **three reporting areas covering order activity, inventory management and staffing costs.
+**Documentation:** a 46-page Access object-definition report, SQL dump, schema scripts, dashboard queries and troubleshooting notes.
+
+# Problems
+**No existing data foundation:** The business required a database before meaningful reporting could begin.
+**Multiple operational areas:** Orders, recipes, inventory and staffing needed to connect without creating duplicated or inconsistent records.
+**Referential integrity:** Relationships required compatible key types and correctly defined constraints.
+**SQL errors:** An inventory-cost query returned an unknown-column error because ingredient fields were referenced incorrectly inside a subquery.
+**Reporting infrastructure cost:** Connecting MySQL directly to Looker Studio required paid cloud services.
+**Import type problems:** Incorrect field types prevented Looker Studio tables and charts from displaying numeric values.
+**Mixed data grains:** The orders table contains order lines, not one row per customer order, which can lead to inflated order counts.
+
+# Solutions
+- Designed a normalized relational model around the owner's business questions.
+- Established relationships between orders, customers, addresses, items, recipes, ingredients and inventory.
+- Used SQL joins and grouped calculations to create dashboard-ready datasets.
+- Corrected subquery references from the outer alias to the ingredient table fields.
+
+- Calculated ingredient usage as:
+Ordered weight =Order quantity × Recipe quantity
+
+- Calculated ingredient cost as:
+Ingredient cost= Ordered weight× ( Ingredient price / Ingredient weight) 
+
+​- Calculated remaining inventory by subtracting consumed weight from available stock weight.
+- Calculated staff hours with TIMEDIFF and multiplied them by hourly rates.
+- Created a lower-cost reporting pipeline: MySQL query output to CSV, CSV to Google Sheets, then Looker Studio.
+- Corrected imported data types so measures worked properly in charts.
+
+  
+# Lessons learned
+**Model before visualizing.** Business questions should determine the entities, relationships and data grain.
+**Name the grain clearly.**The database has 314 order lines but only 58 unique order IDs.
+**Validate every relationship.** Primary and foreign keys require matching data types and appropriate constraints.
+**Test intermediate SQL outputs.** Building complex calculations incrementally makes errors easier to isolate.
+**Validate field types after migration.** Numeric values imported as text can silently break dashboards.
+**Design for production.** The next version should add stronger primary keys, indexes, proper datetime fields and automated refresh.
+
+
+
 
  
 ### Owners Questions that needed to be answered.
