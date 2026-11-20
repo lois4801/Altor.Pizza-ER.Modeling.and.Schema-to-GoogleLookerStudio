@@ -47,12 +47,12 @@ Ingredient cost= Ordered weight× ( Ingredient price / Ingredient weight)
 
   
 # Lessons learned
-**Model before visualizing.** Business questions should determine the entities, relationships and data grain.
-**Name the grain clearly.**The database has 314 order lines but only 58 unique order IDs.
-**Validate every relationship.** Primary and foreign keys require matching data types and appropriate constraints.
-**Test intermediate SQL outputs.** Building complex calculations incrementally makes errors easier to isolate.
-**Validate field types after migration.** Numeric values imported as text can silently break dashboards.
-**Design for production.** The next version should add stronger primary keys, indexes, proper datetime fields and automated refresh.
+- **Model before visualizing.** Business questions should determine the entities, relationships and data grain.
+- **Name the grain clearly.** The database has 314 order lines but only 58 unique order IDs.
+- **Validate every relationship.** Primary and foreign keys require matching data types and appropriate constraints.
+- **Test intermediate SQL outputs.** Building complex calculations incrementally makes errors easier to isolate.
+- **Validate field types after migration.** Numeric values imported as text can silently break dashboards.
+- **Design for production.** The next version should add stronger primary keys, indexes, proper datetime fields and automated refresh.
 
 
 
