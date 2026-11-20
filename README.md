@@ -13,10 +13,10 @@ When a direct MySQL-to-Looker Studio connection required paid cloud infrastructu
 
 # Highlights:
 **End-to-end scope**: requirements analysis, ER modeling, relational schema design, SQL, troubleshooting and Looker Studio reporting.
-**Tools: ** Microsoft Access, MySQL Workbench, SQL, CSV, Google Sheets and Google Looker Studio.
+**Tools:** Microsoft Access, MySQL Workbench, SQL, CSV, Google Sheets and Google Looker Studio.
 **Database coverage:** orders, customers, addresses, items, recipes, ingredients, inventory, staff, shifts and staff rotation.
 **SQL techniques:** joins, grouped aggregations, subqueries, calculated fields, TIMEDIFF, cost calculations and inventory consumption logic.
-**Deliverables: **three reporting areas covering order activity, inventory management and staffing costs.
+**Deliverables:** three reporting areas covering order activity, inventory management and staffing costs.
 **Documentation:** a 46-page Access object-definition report, SQL dump, schema scripts, dashboard queries and troubleshooting notes.
 
 # Problems
